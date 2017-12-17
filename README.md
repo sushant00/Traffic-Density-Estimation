@@ -1,6 +1,6 @@
 # Traffic-Density-Estimation
 
-Estimate traffic density from live feed from traffic cameras
+Estimate traffic density using live feed from traffic cameras
 
 **Steps:**
 1. Detecting moving objects using **Foreground Detection**
